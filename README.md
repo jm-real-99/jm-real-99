@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Real</h1>
-<h3 align="center">I'm studiying Computer Engineering + Computer Engineering student</h3>
+<h3 align="center">I'm studiying Computer Engineering + Computer Engineering</h3>
 
 - 🔎 I'm looking for interships.
 - 👨‍💻 Some of my projects are available on this GitHub.
