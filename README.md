@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Manuel Real</h1>
-<h3 align="center">I'm studiying Computer Engineering + Computer Engineering</h3>
+<h3 align="center">Working as full stack-developer</h3>
 
-- 🔎 I'm looking for interships.
+- 👨🏻‍🎓 Also, at the same time, I'm studiying Computer Engineering + Computer Engineering
 - 👨‍💻 Some of my projects are available on this GitHub.
 - 🤓 I am a creative person and eager to learn.
 - 💻 I like to develop my own projects, if I have an idea, I have to do it
